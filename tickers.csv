@@ -1,0 +1,97 @@
+ticker,name,market
+RELIANCE.NS,Reliance Industries,NSE
+TCS.NS,Tata Consultancy Services,NSE
+INFY.NS,Infosys,NSE
+HDFCBANK.NS,HDFC Bank,NSE
+ICICIBANK.NS,ICICI Bank,NSE
+HINDUNILVR.NS,Hindustan Unilever,NSE
+KOTAKBANK.NS,Kotak Mahindra Bank,NSE
+BAJFINANCE.NS,Bajaj Finance,NSE
+ITC.NS,ITC,NSE
+LT.NS,Larsen & Toubro,NSE
+SBIN.NS,State Bank of India,NSE
+HDFC.NS,HDFC,NSE
+BHARTIARTL.NS,Bharti Airtel,NSE
+MARUTI.NS,Maruti Suzuki,NSE
+ASIANPAINT.NS,Asian Paints,NSE
+ULTRACEMCO.NS,UltraTech Cement,NSE
+HCLTECH.NS,HCL Technologies,NSE
+WIPRO.NS,Wipro,NSE
+TITAN.NS,Titan Company,NSE
+AXISBANK.NS,Axis Bank,NSE
+SUNPHARMA.NS,Sun Pharma,NSE
+POWERGRID.NS,Power Grid,NSE
+NTPC.NS,NTPC,NSE
+BAJAJ-AUTO.NS,Bajaj Auto,NSE
+M&M.NS,Mahindra & Mahindra,NSE
+BAJAJFINSV.NS,Bajaj Finserv,NSE
+ONGC.NS,ONGC,NSE
+DRREDDY.NS,Dr. Reddy's Laboratories,NSE
+TATAMOTORS.NS,Tata Motors,NSE
+JSWSTEEL.NS,JSW Steel,NSE
+HINDALCO.NS,Hindalco,NSE
+TECHM.NS,Tech Mahindra,NSE
+ADANIGREEN.NS,Adani Green,NSE
+CIPLA.NS,Cipla,NSE
+DIVISLAB.NS,Divi's Laboratories,NSE
+SHREECEM.NS,Shree Cement,NSE
+INDUSINDBK.NS,IndusInd Bank,NSE
+UPL.NS,UPL,NSE
+EICHERMOT.NS,Eicher Motors,NSE
+GRASIM.NS,Grasim Industries,NSE
+HDFCLIFE.NS,HDFC Life,NSE
+MCDOWELL-N.NS,United Spirits,NSE
+TATACONSUM.NS,Tata Consumer Products,NSE
+MUTHOOTFIN.NS,Muthoot Finance,NSE
+ICICIGI.NS,ICICI Lombard,NSE
+TATAPOWER.NS,Tata Power,NSE
+RECLTD.NS,REC Ltd,NSE
+COALINDIA.NS,Coal India,NSE
+INDHOTEL.NS,Indian Hotels,NSE
+ADANIPORTS.NS,Adani Ports,NSE
+AAPL,Apple Inc.,US
+MSFT,Microsoft Corp.,US
+GOOGL,Alphabet Inc.,US
+AMZN,Amazon.com Inc.,US
+TSLA,Tesla Inc.,US
+META,Meta Platforms,US
+NVDA,NVIDIA Corp.,US
+BRK-B,Berkshire Hathaway,US
+V,Visa Inc.,US
+JNJ,Johnson & Johnson,US
+WMT,Walmart Inc.,US
+DIS,Disney,US
+MA,Mastercard Inc.,US
+HD,Home Depot,US
+PG,Procter & Gamble,US
+VZ,Verizon Communications,US
+PEP,PepsiCo,US
+INTC,Intel Corp.,US
+CSCO,Cisco Systems,US
+NFLX,Netflix,US
+ADBE,Adobe Inc.,US
+T,AT&T Inc.,US
+BA,Boeing Co.,US
+IBM,IBM,US
+ORCL,Oracle Corp.,US
+AMD,Advanced Micro Devices,US
+GS,Goldman Sachs,US
+CAT,Caterpillar Inc.,US
+MMM,3M Company,US
+RTX,Raytheon Technologies,US
+UNH,UnitedHealth Group,US
+CVX,Chevron Corp.,US
+XOM,Exxon Mobil Corp.,US
+KO,Coca-Cola Co.,US
+MRK,Merck & Co.,US
+ABT,Abbott Laboratories,US
+AMGN,Amgen Inc.,US
+NKE,Nike Inc.,US
+MDT,Medtronic,US
+NEE,NextEra Energy,US
+BMY,Bristol-Myers Squibb,US
+COST,Costco Wholesale,US
+UPS,United Parcel Service,US
+LOW,Lowe's Companies,US
+SPGI,S&P Global,US
+TMO,Thermo Fisher Scientific,US
